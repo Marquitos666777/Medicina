@@ -74,20 +74,20 @@
 </head>
 <body>
 <div id="container">
-    <h1>Robótica na Saúde</h1>
-    <p>A robótica desempenha um papel importante na área da saúde, trazendo inovações e avanços significativos.</p>
+    <h1>Qual é a importância da Medicina em nosso cotidiano?</h1>
+    <p>Seu objetivo é prevenir e combater doenças, manter a qualidade de vida e promover o bem-estar, seja ele individual ou coletivo. Difere-se de acordo com aspectos culturais e religiosos de determinados povos e regiões do planeta, mas em sua essência, se preocupa com a cura das doenças.</p>
     <img src="robotica_saude.jpg" alt="Robótica na Saúde" class="imagem">
-    <p>Robôs cirúrgicos, por exemplo, permitem procedimentos mais precisos e menos invasivos, resultando em tempos de recuperação mais rápidos para os pacientes.</p>
+    <p>A rotina médica pode ser frequentemente desgastante, sobretudo se não for bem planejada. Dividir-se entre mais de um emprego, estar disponível por muito tempo para o trabalho e sempre se alimentar de forma irregular podem ser situações bem comuns na vida do profissional de medicina.</p>
     <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NrPZ1W_LmWc" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p>Para saber mais sobre como a robótica está revolucionando a saúde, clique no botão abaixo:</p>
+    <p>Para saber mais sobre como a medicina está revolucionando as tecnologias, clique no botão abaixo:</p>
     <a href="mais_informacoes.html" class="botao">Mais Informações</a>
 </div>
 
 <div class="bloco-flutuante">
     <h2>Newsletter</h2>
-    <p>Assine nossa newsletter para receber atualizações sobre robótica na saúde.</p>
+    <p>Assine nossa newsletter para receber atualizações sobre medicina nas cirurgias avançadas.</p>
     <form>
         <input type="email" placeholder="Digite seu e-mail" style="width: 100%; padding: 10px;">
         <input type="submit" value="Assinar" class="botao" style="width: 100%;">
