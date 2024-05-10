@@ -6,7 +6,7 @@
 <title>Medicina nos avanços tecnológicos</title>
 <style>
     body {
-        background-image: url('medicina.jpg'); /* Imagem de fundo */
+        background-image: url('1.jpg'); /* Imagem de fundo */
         background-size: cover;
         font-family: Arial, sans-serif;
         margin: 0;
