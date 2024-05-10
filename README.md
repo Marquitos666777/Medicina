@@ -79,7 +79,7 @@
     <img src="1.jpg" alt="Robótica na Saúde" class="imagem">
     <p>A rotina médica pode ser frequentemente desgastante, sobretudo se não for bem planejada. Dividir-se entre mais de um emprego, estar disponível por muito tempo para o trabalho e sempre se alimentar de forma irregular podem ser situações bem comuns na vida do profissional de medicina.</p>
     <div class="video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NrPZ1W_LmWc" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560"scr=https://youtu.be/DSBHxRcMrzI?si=yYaEIP4J0ipkoeB8 " frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Para saber mais sobre como a medicina está revolucionando as tecnologias, clique no botão abaixo:</p>
     <a href="mais_informacoes.html" class="botao">Mais Informações</a>
