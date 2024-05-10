@@ -76,7 +76,7 @@
 <div id="container">
     <h1>Qual é a importância da Medicina em nosso cotidiano?</h1>
     <p>Seu objetivo é prevenir e combater doenças, manter a qualidade de vida e promover o bem-estar, seja ele individual ou coletivo. Difere-se de acordo com aspectos culturais e religiosos de determinados povos e regiões do planeta, mas em sua essência, se preocupa com a cura das doenças.</p>
-    <img src="robotica_saude.jpg" alt="Robótica na Saúde" class="imagem">
+    <img src="1.jpg" alt="Robótica na Saúde" class="imagem">
     <p>A rotina médica pode ser frequentemente desgastante, sobretudo se não for bem planejada. Dividir-se entre mais de um emprego, estar disponível por muito tempo para o trabalho e sempre se alimentar de forma irregular podem ser situações bem comuns na vida do profissional de medicina.</p>
     <div class="video">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NrPZ1W_LmWc" frameborder="0" allowfullscreen></iframe>
